@@ -2056,7 +2056,7 @@
 				}
 
 				.box .image.featured {
-					position: absolute;
+					position: relative;
 					left: 20px;
 					top: 20px;
 					margin: -50px 0 50px -40px;
